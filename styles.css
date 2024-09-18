@@ -1,0 +1,26 @@
+/* Profile Image Styling */
+img.rounded-circle {
+    border: 4px solid #007bff;
+}
+
+/* Custom Styling for Sections */
+#profile {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+}
+
+#hobbies img {
+    height: 200px;
+    object-fit: cover;
+}
+
+#hobbies h5 {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+/* Footer Styling */
+footer a {
+    text-decoration: none;
+    margin: 0 10px;
+}
